@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HarryJacks
 - 👀 I’m interested in Full stack JavaScript Development (React, TypeScript, Nodejs, AWS Lambda, API Gateway, S3 etc).
-- 🌱 I’m currently learning Terraform for AWS serverless services with Localstack and Docker.
 - 📫 Reach me at harry@hjacksltd.co.uk
 
 <!---
